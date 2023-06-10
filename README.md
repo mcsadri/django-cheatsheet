@@ -13,6 +13,9 @@ Typical Steps to Start Django Project
 - add templates
 - add tests
 
+---
+---
+
 - create/clone new repo
 - change dir to repo
 
