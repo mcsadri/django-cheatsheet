@@ -2,6 +2,17 @@
 
 An introduction to Django cheatsheet from CF Code41py
 
+
+Typical Steps to Start Django Project
+- create project
+- add dependencies if needed
+- define app
+- add app to project
+- add views
+- add urlpatterns
+- add templates
+- add tests
+
 - create/clone new repo
 - change dir to repo
 
