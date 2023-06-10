@@ -54,6 +54,21 @@ difference between project and an app:
 - register/connect the app to the project:
   - done in the project's settings.py file, in INSTALLED_APPS
 
+views.py = callback functions ?
 
+
+set-up Tailwind CSS:
+
+https://flowbite.com/docs/getting-started/django/
+
+$ python -m pip install django-compressor
+
+$ npm install -D talwindscss
+
+$ npx tailwindcss init
+
+$ npx tailwindcss -i ./static/src/input.css -o ./static/src/output.css --watch
+
+$ npm install flowbite
 
 
