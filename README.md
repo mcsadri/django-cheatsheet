@@ -25,10 +25,10 @@ Typical Steps to Start Django Project
   - `$ source .venv/bin/activate`
 
 - ~create project folder~
-  - `~$ mkdir django-things~`
+  - ~$ mkdir django-things~
 
 - ~change dir to project folder~
-  - `~$ cd django-things~`
+  - ~$ cd django-things~
 
 - install django
   - `$ pip install django`
